@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [Image of beach] (https://www.pexels.com/photo/scenic-view-of-beach-248797/) 
