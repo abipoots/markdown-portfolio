@@ -1,1 +1,1 @@
-! [Image of beach] (https://www.pexels.com/photo/scenic-view-of-beach-248797/) 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
